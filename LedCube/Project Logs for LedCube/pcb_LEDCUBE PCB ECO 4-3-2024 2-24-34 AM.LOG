@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component U4 MC74HC595AN
+Added Room: Name=sch_LEDCUBE

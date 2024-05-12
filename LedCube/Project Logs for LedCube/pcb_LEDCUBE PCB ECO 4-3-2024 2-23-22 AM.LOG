@@ -1,0 +1,129 @@
+Added Component: Designator=P1(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(CON_8P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L7_A1 Pin=P1-1
+Added Pin To Net: NetName=L7_A2 Pin=P1-2
+Added Pin To Net: NetName=L7_A3 Pin=P1-3
+Added Pin To Net: NetName=L7_A4 Pin=P1-4
+Added Pin To Net: NetName=L7_A5 Pin=P1-5
+Added Pin To Net: NetName=L7_A7 Pin=P1-7
+Added Pin To Net: NetName=L7_A8 Pin=P1-8
+Added Pin To Net: NetName=L4_A1 Pin=P2-1
+Added Pin To Net: NetName=L4_A2 Pin=P2-2
+Added Pin To Net: NetName=L4_A3 Pin=P2-3
+Added Pin To Net: NetName=L4_A4 Pin=P2-4
+Added Pin To Net: NetName=L4_A5 Pin=P2-5
+Added Pin To Net: NetName=L4_A6 Pin=P2-6
+Added Pin To Net: NetName=L4_A7 Pin=P2-7
+Added Pin To Net: NetName=L4_A8 Pin=P2-8
+Added Pin To Net: NetName=L1_A1 Pin=P3-1
+Added Pin To Net: NetName=L1_A2 Pin=P3-2
+Added Pin To Net: NetName=L1_A3 Pin=P3-3
+Added Pin To Net: NetName=L1_A4 Pin=P3-4
+Added Pin To Net: NetName=L1_A5 Pin=P3-5
+Added Pin To Net: NetName=L1_A6 Pin=P3-6
+Added Pin To Net: NetName=L1_A7 Pin=P3-7
+Added Pin To Net: NetName=L1_A8 Pin=P3-8
+Added Pin To Net: NetName=L2_A1 Pin=P4-1
+Added Pin To Net: NetName=L2_A2 Pin=P4-2
+Added Pin To Net: NetName=L2_A3 Pin=P4-3
+Added Pin To Net: NetName=L2_A4 Pin=P4-4
+Added Pin To Net: NetName=L2_A5 Pin=P4-5
+Added Pin To Net: NetName=L2_A7 Pin=P4-7
+Added Pin To Net: NetName=L2_A8 Pin=P4-8
+Added Pin To Net: NetName=L5_A1 Pin=P5-1
+Added Pin To Net: NetName=L5_A2 Pin=P5-2
+Added Pin To Net: NetName=L5_A3 Pin=P5-3
+Added Pin To Net: NetName=L5_A4 Pin=P5-4
+Added Pin To Net: NetName=L5_A5 Pin=P5-5
+Added Pin To Net: NetName=L5_A6 Pin=P5-6
+Added Pin To Net: NetName=L5_A7 Pin=P5-7
+Added Pin To Net: NetName=L5_A8 Pin=P5-8
+Added Pin To Net: NetName=L8_A1 Pin=P6-1
+Added Pin To Net: NetName=L8_A2 Pin=P6-2
+Added Pin To Net: NetName=L8_A3 Pin=P6-3
+Added Pin To Net: NetName=L8_A4 Pin=P6-4
+Added Pin To Net: NetName=L8_A5 Pin=P6-5
+Added Pin To Net: NetName=L8_A7 Pin=P6-7
+Added Pin To Net: NetName=L8_A8 Pin=P6-8
+Added Pin To Net: NetName=L3_A1 Pin=P7-1
+Added Pin To Net: NetName=L3_A2 Pin=P7-2
+Added Pin To Net: NetName=L3_A3 Pin=P7-3
+Added Pin To Net: NetName=L3_A4 Pin=P7-4
+Added Pin To Net: NetName=L3_A5 Pin=P7-5
+Added Pin To Net: NetName=L3_A7 Pin=P7-7
+Added Pin To Net: NetName=L3_A8 Pin=P7-8
+Added Pin To Net: NetName=G_P1 Pin=P8-1
+Added Pin To Net: NetName=G_P2 Pin=P8-2
+Added Pin To Net: NetName=G_P3 Pin=P8-3
+Added Pin To Net: NetName=G_P4 Pin=P8-4
+Added Pin To Net: NetName=G_P5 Pin=P8-5
+Added Pin To Net: NetName=G_P6 Pin=P8-6
+Added Pin To Net: NetName=G_P7 Pin=P8-7
+Added Pin To Net: NetName=G_P8 Pin=P8-8
+Added Pin To Net: NetName=L6_A1 Pin=P9-1
+Added Pin To Net: NetName=L6_A2 Pin=P9-2
+Added Pin To Net: NetName=L6_A3 Pin=P9-3
+Added Pin To Net: NetName=L6_A4 Pin=P9-4
+Added Pin To Net: NetName=L6_A5 Pin=P9-5
+Added Pin To Net: NetName=L6_A7 Pin=P9-7
+Added Pin To Net: NetName=L6_A8 Pin=P9-8
+Added Pin To Net: NetName=L2_A6 Pin=P4-6
+Added Pin To Net: NetName=L2_A6 Pin=R41-1
+Added Net: Name=L2_A6
+Added Pin To Net: NetName=L3_A6 Pin=P7-6
+Added Pin To Net: NetName=L3_A6 Pin=R59-1
+Added Net: Name=L3_A6
+Added Pin To Net: NetName=L7_A6 Pin=P1-6
+Added Pin To Net: NetName=L7_A6 Pin=R17-1
+Added Net: Name=L7_A6
+Added Pin To Net: NetName=L8_A6 Pin=P6-6
+Added Pin To Net: NetName=L8_A6 Pin=R42-1
+Added Net: Name=L8_A6
+Added Pin To Net: NetName=NetP9_6 Pin=P9-6
+Added Pin To Net: NetName=NetP9_6 Pin=R62-1
+Added Net: Name=NetP9_6
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P1 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P2 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P3 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P4 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P5 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P6 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P7 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P8 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component P9 Header 8
+Added Member To Class: ClassName=sch_LEDCUBE Member=Component U1 ESP32-DEVKIT-V1
+Added Room: Name=sch_LEDCUBE
